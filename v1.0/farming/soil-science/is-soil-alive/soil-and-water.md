@@ -37,13 +37,13 @@ students)
 
 # Discussion
 
-Turn student’s attention to how soil functions to support plant life. ​*Do plants need soil to grow?*​ Vote. ​In terms of habitat (food, water, and shelter) what does soil provide for plants? ​Write the following bolded words on the board, record answers, and discuss:
+Turn student’s attention to how soil functions to support plant life. *Do plants need soil to grow?* Vote. In terms of habitat (food, water, and shelter) what does soil provide for plants? Write the following bolded words on the board, record answers, and discuss:
 
-**Food** -​ ​ ​*Does soil provide food for plants?*​ ​ S​ome students may claim that a plant receives all of its food from the soil. Remind students of photosynthesis. CO2 + H2O + Sunlight = Sugars is the definition of photosynthesis. However, plants do intake soil nutrients that are beneficial for their health. Some farmers can tell simply by looking at a plant what nutrient the soil is deficient in. For example, if a red tomato has a rotted bottom, this indicates that the soil is deficient in calcium. ​ *Is calcium a n​ utrient that we consume​ as humans? Where do we get calcium from? How does calcium from the soil become ingested by humans?​* (​Energy and Matter​; ​Obtaining, Evaluating, and Communicating Information​) There are many sources of calcium! Dairy is one that commonly comes to mind, but dark leafy greens are also an excellent source of calcium. These vegetables uptake calcium from the soil, so soil that is rich in nutrients helps to produce the healthiest fruits and vegetables for us to eat! We can tell if soil is rich in nutrients by the color. The darker the soil, the more nutrients it has.
+**Food** -  *Does soil provide food for plants?*  Some students may claim that a plant receives all of its food from the soil. Remind students of photosynthesis. CO2 + H2O + Sunlight = Sugars is the definition of photosynthesis. However, plants do intake soil nutrients that are beneficial for their health. Some farmers can tell simply by looking at a plant what nutrient the soil is deficient in. For example, if a red tomato has a rotted bottom, this indicates that the soil is deficient in calcium.  *Is calcium a nutrient that we consume as humans? Where do we get calcium from? How does calcium from the soil become ingested by humans?* (Energy and Matter; Obtaining, Evaluating, and Communicating Information) There are many sources of calcium! Dairy is one that commonly comes to mind, but dark leafy greens are also an excellent source of calcium. These vegetables uptake calcium from the soil, so soil that is rich in nutrients helps to produce the healthiest fruits and vegetables for us to eat! We can tell if soil is rich in nutrients by the color. The darker the soil, the more nutrients it has.
 
-**Water** -​ ​*How does the soil help to provide water for plants?​ ​Do you think most plants like to sit with water around their stems?* S​oil requires both water and oxygen to support plant growth. As water fills the spaces between soil particles, it drives out air, which can cause roots to rot. A good soil must be able to hold some water, like a sponge, but allow for adequate drainage.
+**Water** - *How does the soil help to provide water for plants? Do you think most plants like to sit with water around their stems?* Soil requires both water and oxygen to support plant growth. As water fills the spaces between soil particles, it drives out air, which can cause roots to rot. A good soil must be able to hold some water, like a sponge, but allow for adequate drainage.
 
-**Shelter**: - *What role does soil play in supporting the s​ tructure​ of a plant? Can you remember which plant part serves as the anchor to hold the plant in place?* (The roots!) ​ The roots depend on soil structure to hold them in place. The soil stabilizes the plant while sheltering the roots. ​*In terms of supporting a plant, how would a loose soil differ from a firm soil?*
+**Shelter**: - *What role does soil play in supporting the structure of a plant? Can you remember which plant part serves as the anchor to hold the plant in place?* (The roots!)  The roots depend on soil structure to hold them in place. The soil stabilizes the plant while sheltering the roots. *In terms of supporting a plant, how would a loose soil differ from a firm soil?*
 
 Today we are going to observe three different kinds of soil to notice properties of their structures to discuss how well each one could provide food, water, and shelter to plants.
 
@@ -55,7 +55,7 @@ Today we are going to observe three different kinds of soil to notice properties
 
 3. Have students explore the soils for a few minutes. Prompt students to smell the soil. *Does it make a sound when you rub it between your fingers? What does that sound and texture tell you about the shape of the particles? What does the color look like?*
 
-4. Invite groups to ​share observations​ about the three types of soil and record them on the board. Can they identify the type of soil based on their observations? The three types are clay, sand, and humus! Humus is also called topsoil and is rich of decomposed matter such as leaves, twigs, and other plant material.
+4. Invite groups to share observations about the three types of soil and record them on the board. Can they identify the type of soil based on their observations? The three types are clay, sand, and humus! Humus is also called topsoil and is rich of decomposed matter such as leaves, twigs, and other plant material.
 
 # Experiment
 
@@ -69,7 +69,7 @@ We are now going to time the passage of water through the different soils to com
 
 4. At the signal each of the pourers should pour 250ml of water into the soil. Keep track of which soil the water percolates through first, second, and third.
 
-5. After the water has mostly run through the soils, compare the amounts left in the bottoms of the containers. ​*Where is the water that is not in the bottom? How much is left behind in the soil?*
+5. After the water has mostly run through the soils, compare the amounts left in the bottoms of the containers. *Where is the water that is not in the bottom? How much is left behind in the soil?*
 
 Many of the characteristics of these soils are explained by particle size and shape. Draw each soil particle on the board for students to observe. Clay: small and flat; Sand: medium and sharp/jagged; Humus: large or small and spongy
 
@@ -77,7 +77,7 @@ Many of the characteristics of these soils are explained by particle size and sh
 include callout.html
 type="hand-paper-o"
 title="Ask students to raise their hands to share"
-content="*Which of the soils would you plant a seed in? Why? Which sample would you not plant a seed in? Could one of the soils possibly drown your plant? Which soil would be bad during a drought? Which soil is richest in nutrients? Based on s​oil particle structure​, which soil is the best for stabilizing a plant?*"
+content="*Which of the soils would you plant a seed in? Why? Which sample would you not plant a seed in? Could one of the soils possibly drown your plant? Which soil would be bad during a drought? Which soil is richest in nutrients? Based on soil particle structure, which soil is the best for stabilizing a plant?*"
 %}
 
 As you can see, each of these soil types have properties that are positive and negative for plants. For example, humus is a rich nutrient source (look at the color!) but it is so loose that it can erode very easily and not provide the best shelter for a plant.

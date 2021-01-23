@@ -27,6 +27,6 @@ Additionally, students will gain competency in the materials selection aspect of
 
 |Lesson                                   |Grades|Resources|Standards|
 |-----------------------------------------|------|---------|---------|
-|[Materials in FarmBot](../materials/materials-in-farmbot)|3-10|Slides|
-|[Determining Density](../materials/determining-density)|3-6|Lecture<br>Video<br>Experiment|[NGSS 3-5-ETS1-1](https://www.nextgenscience.org/pe/3-5-ets1-1-engineering-design)<br>[NGSS 5-PS1-3](https://www.nextgenscience.org/pe/5-ps1-3-matter-and-its-interactions)<br>[CCSS.ELA-LITERACY.RST.6-8.3](http://www.corestandards.org/ELA-Literacy/RST/6-8/3/)|
-|[What is an SDS?](../materials/what-is-an-sds)|5-9|Slides<br>Activity|[NGSS MS-PS1-3](https://www.nextgenscience.org/pe/ms-ps1-3-matter-and-its-interactions)<br>[CCSS.ELA-LITERACY.WHST.6-8.7](http://www.corestandards.org/ELA-Literacy/WHST/6-8/7/)<br>[CCSS.ELA-LITERACY.WHST.6-8.9](http://www.corestandards.org/ELA-Literacy/WHST/6-8/9/)<br>[CCSS.ELA-LITERACY.RST.6-8.1](http://www.corestandards.org/ELA-Literacy/RST/6-8/1/)
+|[Materials in FarmBot](materials/materials-in-farmbot.md)|3-10|Slides|
+|[Determining Density](materials/determining-density.md)|3-6|Lecture<br>Video<br>Experiment|[NGSS 3-5-ETS1-1](https://www.nextgenscience.org/pe/3-5-ets1-1-engineering-design)<br>[NGSS 5-PS1-3](https://www.nextgenscience.org/pe/5-ps1-3-matter-and-its-interactions)<br>[CCSS.ELA-LITERACY.RST.6-8.3](http://www.corestandards.org/ELA-Literacy/RST/6-8/3/)|
+|[What is an SDS?](materials/what-is-an-sds.md)|5-9|Slides<br>Activity|[NGSS MS-PS1-3](https://www.nextgenscience.org/pe/ms-ps1-3-matter-and-its-interactions)<br>[CCSS.ELA-LITERACY.WHST.6-8.7](http://www.corestandards.org/ELA-Literacy/WHST/6-8/7/)<br>[CCSS.ELA-LITERACY.WHST.6-8.9](http://www.corestandards.org/ELA-Literacy/WHST/6-8/9/)<br>[CCSS.ELA-LITERACY.RST.6-8.1](http://www.corestandards.org/ELA-Literacy/RST/6-8/1/)

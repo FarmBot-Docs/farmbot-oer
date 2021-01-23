@@ -31,7 +31,7 @@ drainage, etc. (1 per group of 4 students)
 - Something for each group to measure proportions with eg. dixie cups (1 per group of 4 students)
 - Bean seeds
 - Popsicle stick and pen (1 per group of 4 students)
-- [Which Soil Is Best? Student Lab Sheet](https://docs.google.com/document/d/1U62uB7jfvdO9paHWnNGAcE6KDDF1R85feQHTMgFMaP0/edit?usp=sharing)​ (ask classroom teacher to print 1 per group of 4 students)
+- [Which Soil Is Best? Student Lab Sheet](https://docs.google.com/document/d/1U62uB7jfvdO9paHWnNGAcE6KDDF1R85feQHTMgFMaP0/edit?usp=sharing) (ask classroom teacher to print 1 per group of 4 students)
 - Collect plastic liter bottles and containers for planting
 
 # Discussion
@@ -40,13 +40,13 @@ Plants are like Goldilocks! They like soil that isn’t too hard or too soft, so
 
 *If you were to mix these soils together, which ones would you mix and in what proportions to grow the best plant? Why? How can we be sure it is a fair test? Do we need to plant all the seeds the same way? How should we plant them? Do we need to water them in the same way? How should we measure them?*
 
-Pass out one ​[Which Soil Is Best? Student Lab Sheet​](https://docs.google.com/document/d/1U62uB7jfvdO9paHWnNGAcE6KDDF1R85feQHTMgFMaP0/edit?usp=sharing) per group. Write the agreed-upon planting, watering, and measuring instructions on the board for groups to copy onto their lab sheets. (The back of the seed packet will give good information on how best to plant the seeds and care for the plants.)
+Pass out one [Which Soil Is Best? Student Lab Sheet](https://docs.google.com/document/d/1U62uB7jfvdO9paHWnNGAcE6KDDF1R85feQHTMgFMaP0/edit?usp=sharing) per group. Write the agreed-upon planting, watering, and measuring instructions on the board for groups to copy onto their lab sheets. (The back of the seed packet will give good information on how best to plant the seeds and care for the plants.)
 
-What can you observe to see how soil structure affects plant growth? What can you measure as evidence to compare the effect of different soil compositions on plant health? (Students should observe: number of days till sprouting, plant height, color, number of leaves, leaf size, etc.) (​Structure and Function​; ​Planning and Carrying out Investigations​; Engage in Argument from Evidence​)
+What can you observe to see how soil structure affects plant growth? What can you measure as evidence to compare the effect of different soil compositions on plant health? (Students should observe: number of days till sprouting, plant height, color, number of leaves, leaf size, etc.) (Structure and Function; Planning and Carrying out Investigations; Engage in Argument from Evidence)
 
 # Activity
 
-1. Staying in their same groups of 4, have each student assume a role, for example: the recorder, the mixer, the planter, the waterer. Every student should contribute equally to the decision of what type of soil and in what proportions the mixture should be comprised of. ​Have students write their soil mix ratio on a popsicle stick and their lab sheet with their names and the date.
+1. Staying in their same groups of 4, have each student assume a role, for example: the recorder, the mixer, the planter, the waterer. Every student should contribute equally to the decision of what type of soil and in what proportions the mixture should be comprised of. Have students write their soil mix ratio on a popsicle stick and their lab sheet with their names and the date.
 
 2. Distribute one container / pot to each group. Using the soil that is in front of them from the sensory soil activity, Invite the mixer to measure and mix their groups agreed upon soil recipe. Have the recorder record the group’s prediction as to how well their plant will grow, along with their reasoning as to why they think that.
 
@@ -56,15 +56,15 @@ What can you observe to see how soil structure affects plant growth? What can yo
 
 5. Place all pots in the same location that you agreed upon with the classroom teacher, preferably in a sunny window or greenhouse if available.
 
-6. At this point, the classroom teacher will take over leading the experiment and wrap up discussions. ​Please provide teacher with​: ​[Is Soil Alive - Monitoring Experiment and Wrap Up](https://docs.google.com/document/d/1mu4n7RHhrPPm6WCHrTclU6KFHArj6bBMd1AkxIXRg54/edit?usp=sharing).​ Remind students to observe their pots daily until sprouting, and then weekly for one month. Also review that as the experiment progresses how important it is to treat all the seedlings equally so they can test which soil the plants prefer. A seed will sprout in many different conditions. It is important for students to follow this experiment for several weeks to see how the plants grow after emerging.
+6. At this point, the classroom teacher will take over leading the experiment and wrap up discussions. Please provide teacher with: [Is Soil Alive - Monitoring Experiment and Wrap Up](https://docs.google.com/document/d/1mu4n7RHhrPPm6WCHrTclU6KFHArj6bBMd1AkxIXRg54/edit?usp=sharing). Remind students to observe their pots daily until sprouting, and then weekly for one month. Also review that as the experiment progresses how important it is to treat all the seedlings equally so they can test which soil the plants prefer. A seed will sprout in many different conditions. It is important for students to follow this experiment for several weeks to see how the plants grow after emerging.
 
-7. Review: What are three things you can ​measure as evidence​ to compare the effect of ​soil structure ​on plant health? (​Structure and Function​; ​Cause and Effect​; ​Engage in Argument from Evidence​)
+7. Review: What are three things you can measure as evidence to compare the effect of soil structure on plant health? (Structure and Function; Cause and Effect; Engage in Argument from Evidence)
 
 # Evaluation
 
 After four weeks, hold a final summit on “Which Soil Plants Prefer.” Ask each group to present their findings about the health of their bean plant. What does the data tell us about how changes to the overall structure of your soils, ie. soil composition, affect the function of plant growth and health?
 
-How can you best communicate about this relationship between soil composition and food, water, and shelter for plants? (​Structure and Function​; ​Analyzing and Interpreting Data​; ​Obtaining, Evaluating, and Communicating Information​)
+How can you best communicate about this relationship between soil composition and food, water, and shelter for plants? (Structure and Function; Analyzing and Interpreting Data; Obtaining, Evaluating, and Communicating Information)
 
 Do the groups agree on which soil recipe was the best for the plant? Remind students that in science, the answers aren’t always crystal clear. Often, experiments bring up more questions than they answer. What new questions came up for your groups?
 

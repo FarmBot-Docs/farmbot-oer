@@ -1,0 +1,24 @@
+title: FarmBot Open Educational Resources
+url: https://oer.farm.bot
+description: Openly licensed and free to use educational resources for teaching FarmBot technology and related subjects
+logo: /assets/images/documentation.png
+theme: jekyll-theme-cayman
+remote_theme: FarmBot-Docs/farmbot-theme@main
+repository: FarmBot-Docs/farmbot-oer
+baseurl: /
+color: '#b2378e'
+latest_version_number: 1.0
+version_factor: 10.0
+plugins:
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+include:
+  - _images
+  - _redirects
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor

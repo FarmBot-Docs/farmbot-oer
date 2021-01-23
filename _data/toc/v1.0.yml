@@ -1,0 +1,155 @@
+version_number: 1.0
+status: stable
+home: farmbot-oer/intro
+contents:
+  - title: FarmBot OER
+    url: farmbot-oer
+    top: true
+    pages:
+      - title: FarmBot Open Educational Resources
+        url: intro
+      - title: Grant Opportunities
+        url: grants
+  - title: Hardware
+    url: hardware
+    top: true
+    pages:
+      - title: Mechanical
+        url: mechanical
+        pages:
+          - title: Materials
+            url: materials
+            pages:
+              - title: Materials in FarmBot
+                url: materials-in-farmbot
+              - title: Determining Density
+                url: determining-density
+              - title: What is an SDS?
+                url: what-is-an-sds
+          - title: Structure
+            url: structure
+          - title: Injection Molding
+            url: injection-molding
+          - title: 3D Printing
+            url: 3d-printing
+      - title: Electrical
+        url: electrical
+        pages:
+          - title: Raspberry Pi
+            url: raspberry-pi
+          - title: Farmduino
+            url: farmduino
+          - title: Motors
+            url: motors
+          - title: Solenoid Valve
+            url: solenoid-valve
+          - title: Vacuum Pump
+            url: vacuum-pump
+          - title: LED Light Strip
+            url: led-light-strip
+          - title: Camera
+            url: camera
+          - title: Universal Tool Mount
+            url: universal-tool-mount
+          - title: Soil Sensor
+            url: soil-sensor
+  - title: Software
+    url: software
+    top: true
+    pages:
+      - title: Sequences
+        url: sequences
+        pages:
+          - title: Sequence Commands
+            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/sequence-commands
+            external: true
+          - title: Building a Sequence
+            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/building-a-sequence
+            external: true
+          - title: Example Sequences
+            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/example-sequences
+            external: true
+          - title: Variables
+            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/variables
+            external: true
+          - title: Externally Defined Variables
+            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/externally-defined-variables
+            external: true
+      - title: Scheduling
+        url: scheduling
+        pages:
+          - title: Events
+            url: https://software.farm.bot/v12/The-FarmBot-Web-App/events
+            external: true
+          - title: Regimens
+            url: https://software.farm.bot/v12/The-FarmBot-Web-App/regimens
+            external: true
+      - title: Coding
+        url: coding
+        pages:
+          - title: CeleryScript
+            url: https://developer.farm.bot/v12/Documentation/celery-script
+            external: true
+          - title: FarmBot JS
+            url: https://developer.farm.bot/v12/Documentation/farmbot-js
+            external: true
+          - title: FarmBot Py
+            url: farmbot-py
+          - title: Lua
+            url: https://developer.farm.bot/v12/Documentation/assertions
+            external: true
+  - title: Farming
+    url: farming
+    top: true
+    pages:
+      - title: Soil Science
+        url: soil-science
+        pages:
+          - title: Is Soil Alive?
+            url: is-soil-alive
+            pages:
+              - title: Soil Life
+                url: soil-life
+              - title: Soil and Water
+                url: soil-and-water
+              - title: Soil Mixture Experiment
+                url: soil-mixture-experiment
+              - title: Extension
+                url: extension
+          - title: Soil Types
+            url: soil-types
+          - title: NPK
+            url: npk
+          - title: Micronutrients
+            url: micronutrients
+      - title: Plant Biology
+        url: plant-biology
+        pages:
+          - title: Plant Anatomy
+            url: plant-anatomy
+          - title: Life Stages
+            url: life-stages
+  - title: Sustainability
+    url: sustainability
+    top: true
+    pages:
+      - title: Climate Change
+        url: climate-change
+        pages:
+          - title: Carbon Cycle
+            url: carbon-cycle
+          - title: Water Cycle
+            url: water-cycle
+      - title: Lifecycle Analysis
+        url: lifecycle-analysis
+        pages:
+          - title: Types of Emissions
+            url: types-of-emissions
+          - title: Embodied Energy
+            url: embodied-energy
+          - title: Emissions from Use
+            url: emissions-from-use
+          - title: Cradle to Cradle
+            url: cradle-to-cradle
+          - title: Comparison with the Grocery
+            url: comparison-with-the-grocery

@@ -7,8 +7,7 @@ remote_theme: FarmBot-Docs/farmbot-theme@main
 repository: FarmBot-Docs/farmbot-oer
 baseurl: /
 color: '#b2378e'
-latest_version_number: 1.0
-version_factor: 10.0
+latest_version_number: docs
 plugins:
   - jemoji
   - jekyll-redirect-from

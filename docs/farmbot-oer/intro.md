@@ -2,7 +2,7 @@
 title: "FarmBot Open Educational Resources"
 slug: "intro"
 description: "Openly licensed and free to use educational resources for teaching FarmBot technology and related subjects"
-redirect_from: /docs/v1.0/
+redirect_from: /docs
 ---
 
 * toc

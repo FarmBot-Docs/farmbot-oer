@@ -1,4 +1,4 @@
-version_number: 1.0
+version_number: docs
 status: stable
 home: farmbot-oer/intro
 contents:
@@ -61,42 +61,42 @@ contents:
         url: sequences
         pages:
           - title: Sequence Commands
-            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/sequence-commands
+            url: https://software.farm.bot/docs/sequence-commands
             external: true
           - title: Building a Sequence
-            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/building-a-sequence
+            url: https://software.farm.bot/docs/building-a-sequence
             external: true
           - title: Example Sequences
-            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/example-sequences
+            url: https://software.farm.bot/docs/example-sequences
             external: true
           - title: Variables
-            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/variables
+            url: https://software.farm.bot/docs/variables
             external: true
           - title: Externally Defined Variables
-            url: https://software.farm.bot/v12/The-FarmBot-Web-App/sequences/externally-defined-variables
+            url: https://software.farm.bot/docs/externally-defined-variables
             external: true
       - title: Scheduling
         url: scheduling
         pages:
           - title: Events
-            url: https://software.farm.bot/v12/The-FarmBot-Web-App/events
+            url: https://software.farm.bot/docs/events
             external: true
           - title: Regimens
-            url: https://software.farm.bot/v12/The-FarmBot-Web-App/regimens
+            url: https://software.farm.bot/docs/regimens
             external: true
       - title: Coding
         url: coding
         pages:
           - title: CeleryScript
-            url: https://developer.farm.bot/v12/Documentation/celery-script
+            url: https://developer.farm.bot/docs/celery-script
             external: true
           - title: FarmBot JS
-            url: https://developer.farm.bot/v12/Documentation/farmbot-js
+            url: https://developer.farm.bot/docs/farmbot-js
             external: true
           - title: FarmBot Py
             url: farmbot-py
           - title: Lua
-            url: https://developer.farm.bot/v12/Documentation/assertions
+            url: https://developer.farm.bot/docs/assertions
             external: true
   - title: Farming
     url: farming

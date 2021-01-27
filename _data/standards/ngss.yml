@@ -2,7 +2,7 @@ org: NGSS
 url: https://www.nextgenscience.org/pe/
 data:
   - code: 4-LS1-1
-    title: "From Molecules to Organisms: Structures and Processes"
+    title: "Molecules Organisms: Structures and Processes"
     description: Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction.
   - code: 2-LS4-1
     title: "Biological Evolution: Unity and Diversity"
@@ -34,3 +34,9 @@ data:
   - code: 5-ESS2-1
     title: Earth's Systems
     description: Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere, and/or atmosphere interact.
+  - code: K-LS1-1
+    title: "Molecules Organisms: Structures and Processes"
+    description: 	Use observations to describe patterns of what plants and animals (including humans) need to survive.
+  - code: 2-PS1-1
+    title: Matter and Its Interactions
+    description: 	Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.

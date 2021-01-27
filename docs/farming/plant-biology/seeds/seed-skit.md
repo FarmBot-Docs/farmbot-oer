@@ -12,7 +12,7 @@ description: "Learn about the various parts of seeds using props and acting"
 |**Grades**   |K-4
 |**Time**     |20 minutes
 |**Resources**|[Riddle](#riddle), [Discussion](#discussion), [Activity](#activity)
-|**Standards**|[K-LS1-1](https://www.nextgenscience.org/pe/k-ls1-1-molecules-organisms-structures-and-processes) What do plants need to survive?<br>[2-PS1-1](https://www.nextgenscience.org/pe/2-ps1-1-matter-and-its-interactions) How do plants disperse their seeds?<br>[4-LS1-1](https://www.nextgenscience.org/dci-arrangement/4-ls1-molecules-organisms-structures-and-processes) How does each part of the plant support survival, growth and reproduction?
+|**Standards**|{% include standard.html org="NGSS" code="K-LS1-1" %} What do plants need to survive?<br>{% include standard.html org="NGSS" code="2-PS1-1" %} How do plants disperse their seeds?<br>{% include standard.html org="NGSS" code="4-LS1-1" %} How does each part of the plant support survival, growth and reproduction?
 
 # Materials
 

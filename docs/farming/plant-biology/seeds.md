@@ -13,8 +13,8 @@ In this lesson students will explore seeds and learn that each one contains all 
 
 |Lesson                                   |Grades|Resources|Standards|
 |-----------------------------------------|------|---------|---------|
-|[Seed Skit](seeds/seed-skit.md)|K-4|Riddle, Discussion, Activity|[K-LS1-1](https://www.nextgenscience.org/pe/k-ls1-1-molecules-organisms-structures-and-processes)<br>[2-PS1-1](https://www.nextgenscience.org/pe/2-ps1-1-matter-and-its-interactions)<br>[4-LS1-1](https://www.nextgenscience.org/dci-arrangement/4-ls1-molecules-organisms-structures-and-processes)|
-|[Seed Dissection](seeds/seed-dissection.md)|K-4|Activity|[K-LS1-1](https://www.nextgenscience.org/pe/k-ls1-1-molecules-organisms-structures-and-processes)<br>[2-PS1-1](https://www.nextgenscience.org/pe/2-ps1-1-matter-and-its-interactions)<br>[4-LS1-1](https://www.nextgenscience.org/dci-arrangement/4-ls1-molecules-organisms-structures-and-processes)|
+|[Seed Skit](seeds/seed-skit.md)|K-4|Riddle, Discussion, Activity|{% include standard.html org="NGSS" code="K-LS1-1" %}<br>{% include standard.html org="NGSS" code="2-PS1-1" %}<br>{% include standard.html org="NGSS" code="4-LS1-1" %}|
+|[Seed Dissection](seeds/seed-dissection.md)|K-4|Activity|{% include standard.html org="NGSS" code="K-LS1-1" %}<br>{% include standard.html org="NGSS" code="2-PS1-1" %}<br>{% include standard.html org="NGSS" code="4-LS1-1" %}
 |[Extension Activities](seeds/extension.md)||Links||
 
 # Connecting CCCs and SEPs

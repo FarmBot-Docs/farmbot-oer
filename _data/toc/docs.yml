@@ -114,7 +114,7 @@ contents:
                 url: soil-and-water
               - title: Soil Mixture Experiment
                 url: soil-mixture-experiment
-              - title: Extension
+              - title: Extension Activities
                 url: extension
           - title: Soil Types
             url: soil-types
@@ -125,6 +125,15 @@ contents:
       - title: Plant Biology
         url: plant-biology
         pages:
+          - title: Seeds
+            url: seeds
+            pages:
+              - title: Seed Skit
+                url: seed-skit
+              - title: Seed Dissection
+                url: seed-dissection
+              - title: Extension Activities
+                url: extension
           - title: Plant Anatomy
             url: plant-anatomy
           - title: Life Stages

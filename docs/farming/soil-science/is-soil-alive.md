@@ -24,3 +24,11 @@ In these lessons students will learn that soil is home to billions of organisms 
 - What can you observe to see how soil structure affects plant growth? What can you measure as evidence to compare the effect of different soil compositions on plant health? (Structure and Function; Planning and Carrying out Investigations; Engage in Argument from Evidence)
 - What does the data tell us about how changes to the overall structure of your soils, or in other words soil composition, affect the function of plant growth and health? How can you best communicate about this relationship between soil composition and food, water, and shelter for plants? (Structure and Function; Analyzing and Interpreting Data; Obtaining, Evaluating, and Communicating Information)
 - Can I communicate how the nutrients humans and other animals need to function originate from the soil? How does calcium from the soil become ingested by humans? (Energy and Matter; Obtaining, Evaluating, and Communicating Information)
+
+# Citations
+
+{% include one-cool-earth-attribution.html %}
+
+- LifeLab - The Growing Classroom: [Sensory Soil](https://drive.google.com/file/d/0B3I7UqacGp3uamNkMkM4SGxQUjg/view?usp=sharing)
+- Life Lab: [Soil Stories](https://drive.google.com/file/d/0B3I7UqacGp3ubUdnS0RRYUdsaTQ/view?usp=sharing)
+- [Soil Sampling](https://drive.google.com/file/d/0BwZU1NNjgHs3anZJc1F1SGR2YXM/view?usp=sharing)

@@ -21,7 +21,7 @@ Alternative options in case of rain: you can bring the soil inside of the classr
 |**Grades**   |4-5
 |**Time**     |25 minutes
 |**Resources**|[Discussion](#discussion), [Activity](#activity)
-|**Standards**|[NGSS 4-ESS2-1](https://www.nextgenscience.org/pe/4-ess2-1-earths-systems) What soils are more affected by erosion?<br>[NGSS 5-PS1-3](https://www.nextgenscience.org/pe/5-ps1-3-matter-and-its-interactions) Categorize soil types based on their properties.<br>[NGSS 5-PS1-4](https://www.nextgenscience.org/pe/5-ps1-4-matter-and-its-interactions) Investigate whether mixing two soils result in a new soil.
+|**Standards**|{% include standard.html org="NGSS" code="4-ESS2-1" %} What soils are more affected by erosion?<br>{% include standard.html org="NGSS" code="5-PS1-3" %} Categorize soil types based on their properties.<br>{% include standard.html org="NGSS" code="5-PS1-4" %} Investigate whether mixing two soils result in a new soil.
 
 # Prep
 

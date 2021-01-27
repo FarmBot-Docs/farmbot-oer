@@ -21,7 +21,7 @@ Alternative options in case of rain: you can bring the soil inside of the classr
 |**Grades**   |2-3
 |**Time**     |15 minutes
 |**Resources**|[Discussion](#discussion), [Activity](#activity)
-|**Standards**|[NGSS 2-LS4-1](https://www.nextgenscience.org/pe/2-ls4-1-biological-evolution-unity-and-diversity) Compare the diversity of life found in different soil types or in different areas of the same soil type.<br>[NGSS 3-LS4-3](https://www.nextgenscience.org/pe/3-ls4-3-biological-evolution-unity-and-diversity) What soil type is best for growing vegetables? What types of life do you find in different areas of soil?
+|**Standards**|{% include standard.html org="NGSS" code="2-LS4-1" %} Compare the diversity of life found in different soil types or in different areas of the same soil type.<br>{% include standard.html org="NGSS" code="3-LS4-3" %} What soil type is best for growing vegetables? What types of life do you find in different areas of soil?
 
 # Prep
 

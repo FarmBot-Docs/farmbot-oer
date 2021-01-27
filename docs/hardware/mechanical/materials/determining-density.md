@@ -12,7 +12,7 @@ description: "Experimentally determine the density of parts and use that density
 |**Grades**   |3-6
 |**Time**     |1 hour
 |**Resources**|[Lecture](#lecture), [Video](#video), [Experiment](#experiment)
-|**Standards**|[NGSS 3-5-ETS1-1](https://www.nextgenscience.org/pe/3-5-ets1-1-engineering-design)<br>[NGSS 5-PS1-3](https://www.nextgenscience.org/pe/5-ps1-3-matter-and-its-interactions)<br>[CCSS.ELA-LITERACY.RST.6-8.3](http://www.corestandards.org/ELA-Literacy/RST/6-8/3/)
+|**Standards**|{% include standard.html org="NGSS" code="3-5-ETS1-1" %}<br>{% include standard.html org="NGSS" code="5-PS1-3" %}<br>{% include standard.html org="CCSS" code="ELA-Literacy.RST.6-8.3" %}
 
 # Lecture
 

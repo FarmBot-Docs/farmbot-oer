@@ -1,0 +1,18 @@
+org: CCSS
+url: http://www.corestandards.org/
+data:
+  - code: ELA-Literacy.RST.6-8.3
+    title: English Language Arts Standards » Science & Technical Subjects » Grade 6-8 » 3
+    description: Follow precisely a multistep procedure when carrying out experiments, taking measurements, or performing technical tasks.
+  - code: ELA-Literacy.RST.6-8.7
+    title: English Language Arts Standards » Science & Technical Subjects » Grade 6-8 » 7
+    description: Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, model, graph, or table).
+  - code: ELA-Literacy.WHST.6-8.7
+    title: English Language Arts Standards » Writing » Grade 6-8 » 7
+    description: Conduct short research projects to answer a question (including a self-generated question), drawing on several sources and generating additional related, focused questions that allow for multiple avenues of exploration.
+  - code: ELA-Literacy.WHST.6-8.9
+    title: English Language Arts Standards » Writing » Grade 6-8 » 9
+    description: Draw evidence from informational texts to support analysis, reflection, and research.
+  - code: ELA-Literacy.RST.6-8.1
+    title: English Language Arts Standards » Science & Technical Subjects » Grade 6-8 » 1
+    description: Cite specific textual evidence to support analysis of science and technical texts.

@@ -12,7 +12,7 @@ description: "Safety data sheets and what they are used for"
 |**Grades**   |5-9
 |**Time**     |1 hour
 |**Resources**|[Slides](#slides), [Activity](#activity)
-|**Standards**|[MS-PS1-3](https://www.nextgenscience.org/pe/ms-ps1-3-matter-and-its-interactions)<br>[CCSS.ELA-LITERACY.WHST.6-8.7](http://www.corestandards.org/ELA-Literacy/WHST/6-8/7/)<br>[CCSS.ELA-LITERACY.WHST.6-8.9](http://www.corestandards.org/ELA-Literacy/WHST/6-8/9/)<br>[CCSS.ELA-LITERACY.RST.6-8.1](http://www.corestandards.org/ELA-Literacy/RST/6-8/1/)
+|**Standards**|{% include standard.html org="NGSS" code="MS-PS1-3" %}<br>{% include standard.html org="CCSS" code="ELA-Literacy.WHST.6-8.7" %}<br>{% include standard.html org="CCSS" code="ELA-Literacy.WHST.6-8.9" %}<br>{% include standard.html org="CCSS" code="ELA-Literacy.RST.6-8.1" %}
 
 An **SDS**, or **Safety Data Sheet**, contains information about the hazards and safety concerns of using a specific material. For example: how to extinguish it if it catches fire, what to do if you get it in your eyes, what personal protective equipment is needed to handle it safely, etc.
 

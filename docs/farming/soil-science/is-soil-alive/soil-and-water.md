@@ -21,7 +21,7 @@ Alternative options in case of rain: you can bring the soil inside of the classr
 |**Grades**   |3-5
 |**Time**     |20 minutes
 |**Resources**|[Discussion](#discussion), [Activity](#activity), [Experiment](#experiment)
-|**Standards**|[NGSS 3-LS4-4](https://www.nextgenscience.org/pe/3-ls4-4-biological-evolution-unity-and-diversity) How can we change or amend soil to make it more suitable for vegetables?<br>[NGSS 3-5-ETS1-2](https://www.nextgenscience.org/pe/3-5-ets1-2-engineering-design) How do different soil types affect plant growth?<br>[NGSS 4-LS1-1](https://www.nextgenscience.org/pe/4-ls1-1-molecules-organisms-structures-and-processes) How does soil affect root and plant growth?<br>[NGSS 5-ESS2-1](https://www.nextgenscience.org/pe/5-ess2-1-earths-systems) How does water interact with soil? How do life forms in the soil interact with the soil to change it?
+|**Standards**|{% include standard.html org="NGSS" code="3-LS4-4" %} How can we change or amend soil to make it more suitable for vegetables?<br>{% include standard.html org="NGSS" code="3-5-ETS1-2" %} How do different soil types affect plant growth?<br>{% include standard.html org="NGSS" code="4-LS1-1" %} How does soil affect root and plant growth?<br>{% include standard.html org="NGSS" code="5-ESS2-1" %} How does water interact with soil? How do life forms in the soil interact with the soil to change it?
 
 # Prep
 

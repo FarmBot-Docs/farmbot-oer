@@ -40,7 +40,7 @@ content="
 |**Grades**   |3-7
 |**Time**     |1 hour
 |**Resources**|Video, Experiment
-|**Standards**|[NGSS 3-5-ETS1-1](https://www.nextgenscience.org/pe/3-5-ets1-1-engineering-design)<br>[NGSS 5-PS1-3](https://www.nextgenscience.org/pe/5-ps1-3-matter-and-its-interactions)<br>[CCSS.ELA-LITERACY.RST.6-8.3](http://www.corestandards.org/ELA-Literacy/RST/6-8/3/)
+|**Standards**|[NGSS 3-5-ETS1-1](https://www.nextgenscience.org/pe/3-5-ets1-1-engineering-design)<br>[NGSS 5-PS1-3](https://www.nextgenscience.org/pe/5-ps1-3-matter-and-its-interactions)<br>[CCSS.ELA-LITERACY.RST.6-8.3](http://www.corestandards.org/ELA-Literacy/RST/6-8/3)
 " %}
 
 # Grade ranges

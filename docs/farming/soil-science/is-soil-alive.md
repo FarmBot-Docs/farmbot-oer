@@ -13,9 +13,9 @@ In these lessons students will learn that soil is home to billions of organisms 
 
 |Lesson                                   |Grades|Resources|Standards|
 |-----------------------------------------|------|---------|---------|
-|[Soil Life](is-soil-alive/soil-life.md)|2-3|Discussion, Activity|[NGSS 2-LS4-1](https://www.nextgenscience.org/pe/2-ls4-1-biological-evolution-unity-and-diversity)<br>[NGSS 3-LS4-3](https://www.nextgenscience.org/pe/3-ls4-3-biological-evolution-unity-and-diversity)|
-|[Soil and Water](is-soil-alive/soil-and-water.md)|3-5|Discussion, Activity, Experiment|[NGSS 3-LS4-4](https://www.nextgenscience.org/pe/3-ls4-4-biological-evolution-unity-and-diversity)<br>[NGSS 5-ESS2-1](https://www.nextgenscience.org/pe/5-ess2-1-earths-systems)<br>[NGSS 3-5-ETS1-2](https://www.nextgenscience.org/pe/3-5-ets1-2-engineering-design)<br>[NGSS 4-LS1-1](https://www.nextgenscience.org/pe/4-ls1-1-molecules-organisms-structures-and-processes)|
-|[Soil Mixture Experiment](is-soil-alive/soil-mixture-experiment.md)|4-5|Discussion, Activity|[NGSS 4-ESS2-1](https://www.nextgenscience.org/pe/4-ess2-1-earths-systems)<br>[NGSS 5-PS1-3](https://www.nextgenscience.org/pe/5-ps1-3-matter-and-its-interactions)<br>[NGSS 5-PS1-4](https://www.nextgenscience.org/pe/5-ps1-4-matter-and-its-interactions)|
+|[Soil Life](is-soil-alive/soil-life.md)|2-3|Discussion, Activity|{% include standard.html org="NGSS" code="2-LS4-1" %}<br>{% include standard.html org="NGSS" code="3-LS4-3" %}|
+|[Soil and Water](is-soil-alive/soil-and-water.md)|3-5|Discussion, Activity, Experiment|{% include standard.html org="NGSS" code="3-LS4-4" %}<br>{% include standard.html org="NGSS" code="5-ESS2-1" %}<br>{% include standard.html org="NGSS" code="3-5-ETS1-2" %}<br>{% include standard.html org="NGSS" code="4-LS1-1" %}|
+|[Soil Mixture Experiment](is-soil-alive/soil-mixture-experiment.md)|4-5|Discussion, Activity|{% include standard.html org="NGSS" code="4-ESS2-1" %}<br>{% include standard.html org="NGSS" code="5-PS1-3" %}<br>{% include standard.html org="NGSS" code="5-PS1-4" %}|
 |[Extension Activities](is-soil-alive/extension.md)|2-5|Links||
 
 # Connecting CCCs and SEPs

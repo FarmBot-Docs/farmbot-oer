@@ -1,5 +1,5 @@
 ---
-title: "Is Soil Alive? - Extension"
+title: "Is Soil Alive? - Extension Activities"
 slug: "extension"
 description: "Further ideas and resources for extending this lesson"
 ---

@@ -102,6 +102,24 @@ contents:
     url: farming
     top: true
     pages:
+      - title: Farming Techniques
+        url: farming-techniques
+        pages:
+          - title: Greenhouses
+            url: greenhouses
+            pages:
+              - title: Measuring Soil Temperature
+                url: measuring-soil-temperature
+              - title: Engineering Mini Greenhouses
+                url: engineering-mini-greenhouses
+              - title: Extension
+                url: extension
+          - title: Permaculture
+            url: permaculture
+          - title: Hydroponics
+            url: hydroponics
+          - title: Aeroponics
+            url: aeroponics
       - title: Soil Science
         url: soil-science
         pages:

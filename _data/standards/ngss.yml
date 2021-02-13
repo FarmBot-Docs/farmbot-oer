@@ -5,42 +5,73 @@ data:
     title: "From Molecules to Organisms: Structures and Processes"
     slug: molecules-organisms-structures-and-processes
     description: Use observations to describe patterns of what plants and animals (including humans) need to survive.
-  - code: 4-LS1-1
-    title: "From Molecules to Organisms: Structures and Processes"
-    slug: molecules-organisms-structures-and-processes
-    description: Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction.
+  - code: K-ESS2-2
+    title: "Earth's Systems"
+    slug: earths-systems
+    description: Construct an argument supported by evidence for how plants and animals (including humans) can change the environment to meet their needs.
+  - code: K-PS3-1
+    title: "Energy"
+    slug: energy
+    description: Make observations to determine the effect of sunlight on Earth’s surface.
+  - code: K-ESS3-3
+    title: "Earth and Human Activity"
+    slug: earth-and-human-activity
+    description: Communicate solutions that will reduce the impact of humans on the land, water, air, and/or other living things in the local environment.
   - code: 2-LS4-1
     title: "Biological Evolution: Unity and Diversity"
     description: Make observations of plants and animals to compare the diversity of life in different habitats.
+  - code: 2-PS1-1
+    title: Matter and Its Interactions
+    description: Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.
   - code: 3-LS4-3
     title: "Biological Evolution: Unity and Diversity"
     description: Construct an argument with evidence that in a particular habitat some organisms can survive well, some survive less well, and some cannot survive at all.
   - code: 3-LS4-4
     title: "Biological Evolution: Unity and Diversity"
     description: Make a claim about the merit of a solution to a problem caused when the environment changes and the types of plants and animals that live there may change.
-  - code: 2-PS1-1
-    title: Matter and Its Interactions
-    description: Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.
-  - code: 5-PS1-3
-    title: Matter and Its Interactions
-    description: Make observations and measurements to identify materials based on their properties.
-  - code: 5-PS1-4
-    title: Matter and Its Interactions
-    description: Conduct an investigation to determine whether the mixing of two or more substances results in new substances.
-  - code: MS-PS1-3
-    title: Matter and its Interactions
-    description: Gather and make sense of information to describe that synthetic materials come from natural resources and impact society.
+  - code: 3-ESS2-1
+    title: "Earth's Systems"
+    slug: earths-systems
+    description: Represent data in tables and graphical displays to describe typical weather conditions expected during a particular season.
+  - code: 3-ESS3-1
+    title: "Earth and Human Activity"
+    slug: earth-and-human-activity
+    description: Make a claim about the merit of a design solution that reduces the impacts of a weather-related hazard.
+  - code: 3-ESS3-1
+    title: "Earth and Human Activity"
+    slug: earth-and-human-activity
+    description: Make a claim about the merit of a design solution that reduces the impacts of a weather-related hazard.
+  - code: 4-LS1-1
+    title: "From Molecules to Organisms: Structures and Processes"
+    slug: molecules-organisms-structures-and-processes
+    description: Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction.
+  - code: 4-ESS3-2
+    title: "Earth and Human Activity"
+    slug: earth-and-human-activity
+    description: Generate and compare multiple solutions to reduce the impacts of natural Earth processes on humans.
   - code: 3-5-ETS1-1
     title: Engineering Design
     description: Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.
   - code: 3-5-ETS1-2
     title: Engineering Design
     description: Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.
-  - code: 4-ESS2-1
-    title: Earth's Systems
-    slug: earths-systems
-    description: Make observations and/or measurements to provide evidence of the effects of weathering or the rate of erosion by water, ice, wind, or vegetation.
+  - code: 5-PS1-3
+    title: Matter and Its Interactions
+    description: Make observations and measurements to identify materials based on their properties.
+  - code: 5-PS1-4
+    title: Matter and Its Interactions
+    description: Conduct an investigation to determine whether the mixing of two or more substances results in new substances.
   - code: 5-ESS2-1
     title: Earth's Systems
     slug: earths-systems
     description: Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere, and/or atmosphere interact.
+  - code: 5-ESS3-1
+    title: Earth and Human Activity
+    description: Obtain and combine information about ways individual communities use science ideas to protect the Earth’s resources and environment.
+  - code: MS-PS1-3
+    title: Matter and its Interactions
+    description: Gather and make sense of information to describe that synthetic materials come from natural resources and impact society.
+  - code: MS-ESS2-4
+    title: Earth's Systems
+    slug: earths-systems
+    description: Develop a model to describe the cycling of water through Earth's systems driven by energy from the sun and the force of gravity.

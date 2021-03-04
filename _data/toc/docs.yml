@@ -1,9 +1,9 @@
 version_number: docs
 status: stable
-home: farmbot-oer/intro
+home: oer/intro
 contents:
   - title: FarmBot OER
-    url: farmbot-oer
+    url: oer
     top: true
     pages:
       - title: FarmBot Open Educational Resources

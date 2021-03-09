@@ -16,3 +16,12 @@ data:
   - code: ELA-Literacy.RST.6-8.1
     title: English Language Arts Standards » Science & Technical Subjects » Grade 6-8 » 1
     description: Cite specific textual evidence to support analysis of science and technical texts.
+  - code: ELA-Literacy.RH.6-8.3
+    title: English Language Arts Standards » History/Social Studies » Grade 6-8 » 3
+    description: Identify key steps in a text’s description of a process related to history/social studies (e.g., how a bill becomes law, how interest rates are raised or lowered).
+  - code: ELA-Literacy.RH.6-8.4
+    title: English Language Arts Standards » History/Social Studies » Grade 6-8 » 4
+    description: Determine the meaning of words and phrases as they are used in a text, including vocabulary specific to domains related to history/social studies.
+  - code: ELA-Literacy.RH.9-10.4
+    title: English Language Arts Standards » History/Social Studies » Grade 9-10 » 4
+    description: Determine the meaning of words and phrases as they are used in a text, including vocabulary specific to domains related to history/social studies.

@@ -120,6 +120,22 @@ contents:
             url: hydroponics
           - title: Aeroponics
             url: aeroponics
+      - title: Plant Biology
+        url: plant-biology
+        pages:
+          - title: Seeds
+            url: seeds
+            pages:
+              - title: Seed Skit
+                url: seed-skit
+              - title: Seed Dissection
+                url: seed-dissection
+              - title: Extension Activities
+                url: extension
+          - title: Plant Anatomy
+            url: plant-anatomy
+          - title: Life Stages
+            url: life-stages
       - title: Soil Science
         url: soil-science
         pages:
@@ -140,22 +156,13 @@ contents:
             url: npk
           - title: Micronutrients
             url: micronutrients
-      - title: Plant Biology
-        url: plant-biology
+      - title: Supply Chain
+        url: supply-chain
         pages:
-          - title: Seeds
-            url: seeds
-            pages:
-              - title: Seed Skit
-                url: seed-skit
-              - title: Seed Dissection
-                url: seed-dissection
-              - title: Extension Activities
-                url: extension
-          - title: Plant Anatomy
-            url: plant-anatomy
-          - title: Life Stages
-            url: life-stages
+          - title: Farms
+            url: farms
+          - title: Farmworkers
+            url: farmworkers
   - title: Sustainability
     url: sustainability
     top: true

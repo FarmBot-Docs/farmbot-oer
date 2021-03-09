@@ -2,6 +2,8 @@
 title: "Permaculture"
 slug: "permaculture"
 description: ""
+tags:
+ - Coming soon
 ---
 
 * toc

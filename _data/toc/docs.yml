@@ -28,31 +28,55 @@ contents:
                 url: what-is-an-sds
           - title: Structure
             url: structure
+            tags:
+              - Coming soon
           - title: Injection Molding
             url: injection-molding
+            tags:
+              - Coming soon
           - title: 3D Printing
             url: 3d-printing
+            tags:
+              - Coming soon
       - title: Electrical
         url: electrical
         pages:
           - title: Raspberry Pi
             url: raspberry-pi
+            tags:
+              - Coming soon
           - title: Farmduino
             url: farmduino
+            tags:
+              - Coming soon
           - title: Motors
             url: motors
+            tags:
+              - Coming soon
           - title: Solenoid Valve
             url: solenoid-valve
+            tags:
+              - Coming soon
           - title: Vacuum Pump
             url: vacuum-pump
+            tags:
+              - Coming soon
           - title: LED Light Strip
             url: led-light-strip
+            tags:
+              - Coming soon
           - title: Camera
             url: camera
+            tags:
+              - Coming soon
           - title: Universal Tool Mount
             url: universal-tool-mount
+            tags:
+              - Coming soon
           - title: Soil Sensor
             url: soil-sensor
+            tags:
+              - Coming soon
   - title: Software
     url: software
     top: true
@@ -95,6 +119,8 @@ contents:
             external: true
           - title: FarmBot Py
             url: farmbot-py
+            tags:
+              - Coming soon
           - title: Lua
             url: https://developer.farm.bot/docs/assertions
             external: true
@@ -116,10 +142,16 @@ contents:
                 url: extension
           - title: Permaculture
             url: permaculture
+            tags:
+              - Coming soon
           - title: Hydroponics
             url: hydroponics
+            tags:
+              - Coming soon
           - title: Aeroponics
             url: aeroponics
+            tags:
+              - Coming soon
       - title: Plant Biology
         url: plant-biology
         pages:
@@ -134,8 +166,12 @@ contents:
                 url: extension
           - title: Plant Anatomy
             url: plant-anatomy
+            tags:
+              - Coming soon
           - title: Life Stages
             url: life-stages
+            tags:
+              - Coming soon
       - title: Soil Science
         url: soil-science
         pages:
@@ -152,15 +188,23 @@ contents:
                 url: extension
           - title: Soil Types
             url: soil-types
+            tags:
+              - Coming soon
           - title: NPK
             url: npk
+            tags:
+              - Coming soon
           - title: Micronutrients
             url: micronutrients
+            tags:
+              - Coming soon
       - title: Supply Chain
         url: supply-chain
         pages:
           - title: Farms
             url: farms
+            tags:
+              - Coming soon
           - title: Farmworkers
             url: farmworkers
   - title: Sustainability
@@ -172,18 +216,32 @@ contents:
         pages:
           - title: Carbon Cycle
             url: carbon-cycle
+            tags:
+              - Coming soon
           - title: Water Cycle
             url: water-cycle
+            tags:
+              - Coming soon
       - title: Lifecycle Analysis
         url: lifecycle-analysis
         pages:
           - title: Types of Emissions
             url: types-of-emissions
+            tags:
+              - Coming soon
           - title: Embodied Energy
             url: embodied-energy
+            tags:
+              - Coming soon
           - title: Emissions from Use
             url: emissions-from-use
+            tags:
+              - Coming soon
           - title: Cradle to Cradle
             url: cradle-to-cradle
+            tags:
+              - Coming soon
           - title: Comparison with the Grocery
             url: comparison-with-the-grocery
+            tags:
+              - Coming soon

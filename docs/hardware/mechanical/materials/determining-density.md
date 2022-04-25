@@ -4,9 +4,6 @@ slug: "determining-density"
 description: "Experimentally determine the density of parts and use that density to find the mass of a new part design"
 ---
 
-* toc
-{:toc}
-
 # Lesson overview
 
 |**Grades**   |3-6

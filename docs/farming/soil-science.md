@@ -4,9 +4,6 @@ slug: "soil-science"
 description: "Overview of soil science subjects"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
 * [Soil Types](../farming/soil-science/soil-types.md)

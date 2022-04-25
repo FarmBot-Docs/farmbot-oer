@@ -4,9 +4,6 @@ slug: "electrical"
 description: "Overview of electrical hardware subjects"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
 * [Raspberry Pi](../hardware/electrical/raspberry-pi.md)

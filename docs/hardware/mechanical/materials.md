@@ -4,9 +4,6 @@ slug: "materials"
 description: "Exploring the materials used in FarmBot"
 ---
 
-* toc
-{:toc}
-
 FarmBot is made of many different parts that all serve different purposes. Some parts are made of plastic, while others are made of metal. Depending on where the part is used and what functions it must provide will determine which **material** the part is made of.
 
 The lessons in this category are all related to the materials of the FarmBot parts. Some questions your students will be able to answer after completing these lessons include:

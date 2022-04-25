@@ -4,9 +4,6 @@ slug: "extension"
 description: "Further ideas and resources for extending this lesson"
 ---
 
-* toc
-{:toc}
-
 - How do seeds travel? Students learn by experiment with a variety of seeds. Why is it advantageous for coconuts to float, or for dandelion seeds to fly? This lesson is an intersection of adaptations and structure and function. Follow this lesson plan: [Seed Ya Later](https://drive.google.com/file/d/0B3I7UqacGp3uM2QteFBJNTJOQ0E/view?usp=sharing).
 - Students engineer their own “seed” by mimicking structures of real seeds that allow for traveling. Follow this lesson plan: [Adapt-a-Seed](https://drive.google.com/file/d/0B3I7UqacGp3udzFQVUoxdlZycW8/view?usp=sharing).
 - Have students go into the garden and collect seeds from different plants. The seeds are ready when seed pods are brown and dry. Describe and categorize these seeds. Use this [Seed Saving Packet Template](https://drive.google.com/file/d/0B3I7UqacGp3uRk5jcXRjR0Z0MmM/view?usp=sharing.).

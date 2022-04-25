@@ -4,9 +4,6 @@ slug: "extension"
 description: "Further ideas and resources for extending this lesson"
 ---
 
-* toc
-{:toc}
-
 - Soil to smoothie: How can an apple core turn into a peach? How can some lettuce turn into a sunflower? Find out how through this storytelling activity: [Soil to Smoothie Activity Guide and Materials](https://drive.google.com/file/d/0B3I7UqacGp3uSnlTT3RhMWo4UDg/view?usp=sharing).
 - Ask students to do research on decomposers, pick their favorite decomposer, and then write and draw a cartoon strip of them hard at work in the compost pile. For inspiration, read: The Diary of a Worm by Doreen Cronin.
 - The Wonderful World of Wigglers: [Soil Tests](https://drive.google.com/file/d/0B3I7UqacGp3uMm94QldJX05vZ28/view?usp=sharing).

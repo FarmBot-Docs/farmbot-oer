@@ -4,9 +4,6 @@ slug: "is-soil-alive"
 description: "**Key Topics:** Soil Composition, Soil Formation, Soil Food Web, Decomposition, Weathering, Nutrients, Humus, Top Soil, Sand, Clay"
 ---
 
-* toc
-{:toc}
-
 In these lessons students will learn that soil is home to billions of organisms that play vital roles in decomposition and ecosystem health. Students will use their senses to discover qualities of different soil types and understand what they provide for plants in terms of food, water, and shelter. They will then practice setting up an experiment to test which mixture of soils help support plant growth best!
 
 # Syllabus

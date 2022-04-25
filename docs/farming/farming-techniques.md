@@ -4,9 +4,6 @@ slug: "farming-techniques"
 description: "Overview of farming techniques"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
 * [Greenhouses](../farming/farming-techniques/greenhouses.md)

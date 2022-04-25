@@ -4,9 +4,6 @@ slug: "engineering-mini-greenhouses"
 description: ""
 ---
 
-* toc
-{:toc}
-
 {%
 include callout.html
 type="tree"

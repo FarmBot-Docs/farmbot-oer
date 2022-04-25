@@ -5,6 +5,3 @@ description: "Overview of FarmBot's Python control library"
 tags:
  - Coming soon
 ---
-
-* toc
-{:toc}

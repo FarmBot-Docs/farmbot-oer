@@ -4,9 +4,6 @@ slug: "supply-chain"
 description: "Overview of supply chain subjects"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
 * [Farms](../farming/supply-chain/farms.md)

@@ -4,9 +4,6 @@ slug: "what-is-an-sds"
 description: "Safety data sheets and what they are used for"
 ---
 
-* toc
-{:toc}
-
 # Lesson overview
 
 |**Grades**   |5-9

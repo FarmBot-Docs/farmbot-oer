@@ -5,9 +5,6 @@ description: "Openly licensed and free to use educational resources for teaching
 redirect_from: /docs
 ---
 
-* toc
-{:toc}
-
 Welcome, and thank you for taking interest in using [FarmBot](https://farm.bot) as a tool to inspire the next generation of farmers! The **Open Educational Resources** available on this site aim to help instructors in implementing FarmBot curriculum in K-12 schools, extracurricular clubs, continuing education programs, and more across a variety of STEM subjects.
 
 Teaching with FarmBot in schools can be a rewarding and unique experience for teachers and students alike. At its heart, our curriculum lies at the intersection of the DIY maker movement, robotics, and small-scale polycrop food production. The lesson plans and activities are hands-on and multidisciplinary, meet many common core objectives, and effectively bridge the gap between theory and the real world. In addition to being fun and engaging, students are rewarded with the real vegetables, flowers, mushrooms, and more that they learn to grow with their FarmBot.

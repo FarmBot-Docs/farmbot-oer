@@ -4,9 +4,6 @@ slug: "sequences"
 description: "Programming FarmBot with sequences of commands"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
 * [Sequence Commands](https://software.farm.bot/docs/sequence-commands)

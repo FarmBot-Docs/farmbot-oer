@@ -4,9 +4,6 @@ slug: "soil-life"
 description: "Compare the diversity of life found in different soil types or in different areas of the same soil type"
 ---
 
-* toc
-{:toc}
-
 {%
 include callout.html
 type="tree"

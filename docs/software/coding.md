@@ -4,9 +4,6 @@ slug: "coding"
 description: "Programmatically controlling FarmBot with CeleryScript, JavaScript, Python, or Lua"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
 * [CeleryScript](https://developer.farm.bot/docs/celery-script)

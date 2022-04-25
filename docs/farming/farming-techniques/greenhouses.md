@@ -5,9 +5,6 @@ description: "**Key Topics:** Greenhouse, Hoop House, Greenhouse Effect, Sun, Te
 Weather, Meteorology, Thermometer"
 ---
 
-* toc
-{:toc}
-
 In this lesson students will use thermometers to measure soil temperature and use the information to determine if the soil is warm enough to support rapid, average or minimal plant growth. Students will relate seasons and weather to changes in soil temperature, recognizing that these changes affect plant growth.
 
 Students will then learn about one structure humans developed to change their local environmental conditions to grow plants in the winter time, the **greenhouse**! Students will engineer their own prototypes of a greenhouse to modify soil temperature and growing conditions, monitoring their greenhouse over time.

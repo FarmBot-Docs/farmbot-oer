@@ -4,9 +4,6 @@ slug: "lifecycle-analysis"
 description: "Overview of lifecycle analysis subjects"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
 * [Types of Emissions](../sustainability/lifecycle-analysis/types-of-emissions.md)

@@ -4,9 +4,6 @@ slug: "seed-skit"
 description: "Learn about the various parts of seeds using props and acting"
 ---
 
-* toc
-{:toc}
-
 # Lesson overview
 
 |**Grades**   |K-4

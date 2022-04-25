@@ -4,9 +4,6 @@ slug: "grants"
 description: "Financial aid in bringing FarmBot to your school"
 ---
 
-* toc
-{:toc}
-
 We receive many inquiries about grant opportunities, financial aid, in-kind donations, and other ways in which we may be able to help bring FarmBot to students everywhere.
 
 Unfortunately we do not have the resources available to make large donations at this time. However, please ask us about current **educational discounts** that may be available to your organization. We may be able to extend special pricing to K-12 schools, universities, and other qualified educational institutions.

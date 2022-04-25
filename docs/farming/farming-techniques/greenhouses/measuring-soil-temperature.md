@@ -4,9 +4,6 @@ slug: "measuring-soil-temperature"
 description: ""
 ---
 
-* toc
-{:toc}
-
 {%
 include callout.html
 type="tree"

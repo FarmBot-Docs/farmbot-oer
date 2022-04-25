@@ -4,9 +4,6 @@ slug: "materials-in-farmbot"
 description: "Exploring the materials used in FarmBot"
 ---
 
-* toc
-{:toc}
-
 # Lesson overview
 
 |**Grades**   |3-10

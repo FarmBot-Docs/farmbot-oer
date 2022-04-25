@@ -4,9 +4,6 @@ slug: "soil-and-water"
 description: "How does water interact with soil?"
 ---
 
-* toc
-{:toc}
-
 {%
 include callout.html
 type="tree"

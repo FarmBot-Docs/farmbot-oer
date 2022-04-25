@@ -4,9 +4,6 @@ slug: "seeds"
 description: "**Key Topics:** Seed Coat, Germination, Cotyledon, Endosperm, Roots, New Leaves, Photosynthesis, Embryo"
 ---
 
-* toc
-{:toc}
-
 In this lesson students will explore seeds and learn that each one contains all the information necessary to grow into healthy, thriving vegetables. Learning will happen through a skit that relates common items such as a coat, a snack, and a hat to the structure and function of different seed components. Students will then dissect a variety of soaked seeds to understand that all seeds have these parts and therefore all seeds have the possibility to become a plant.
 
 # Syllabus

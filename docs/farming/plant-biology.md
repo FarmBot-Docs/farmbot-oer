@@ -4,9 +4,6 @@ slug: "plant-biology"
 description: "Overview of plant biology subjects"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
 * [Plant Anatomy](../farming/plant-biology/plant-anatomy.md)

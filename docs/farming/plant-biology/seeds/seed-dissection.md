@@ -4,9 +4,6 @@ slug: "seed-dissection"
 description: "Dissect and inspect Lima beans to reveal their inner structure"
 ---
 
-* toc
-{:toc}
-
 # Lesson overview
 
 |**Grades**   |K-4

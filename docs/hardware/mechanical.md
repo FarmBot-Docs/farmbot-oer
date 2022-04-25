@@ -4,9 +4,6 @@ slug: "mechanical"
 description: "Overview of mechanical hardware subjects"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
 * [Materials](../hardware/mechanical/materials.md)

@@ -4,9 +4,6 @@ slug: "soil-mixture-experiment"
 description: "What soil type is best for growing vegetables?"
 ---
 
-* toc
-{:toc}
-
 {%
 include callout.html
 type="tree"

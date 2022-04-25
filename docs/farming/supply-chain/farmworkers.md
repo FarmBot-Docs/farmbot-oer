@@ -4,9 +4,6 @@ slug: "farmworkers"
 description: "Who grows your food?"
 ---
 
-* toc
-{:toc}
-
 # Lesson overview
 
 |**Grades**   |6-10

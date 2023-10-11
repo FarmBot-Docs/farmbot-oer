@@ -1,12 +1,12 @@
 ---
 title: "Coding"
 slug: "coding"
-description: "Programmatically controlling FarmBot with CeleryScript, JavaScript, Python, or Lua"
+description: "Programmatically controlling FarmBot with Lua, Python, JavaScript, or CeleryScript"
 ---
 
 # What's next?
 
-* [CeleryScript](https://developer.farm.bot/docs/celery-script)
+* [Lua](https://lua.farm.bot)
+* [FarmBot Py](https://developer.farm.bot/docs/python-library)
 * [FarmBot JS](https://developer.farm.bot/docs/farmbot-js)
-* [FarmBot Py](../software/coding/farmbot-py.md)
-* [Lua](https://developer.farm.bot/docs/assertions)
+* [CeleryScript](https://developer.farm.bot/docs/celery-script)

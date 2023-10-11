@@ -9,7 +9,7 @@ Welcome, and thank you for taking interest in using [FarmBot](https://farm.bot) 
 
 Teaching with FarmBot in schools can be a rewarding and unique experience for teachers and students alike. At its heart, our curriculum lies at the intersection of the DIY maker movement, robotics, and small-scale polycrop food production. The lesson plans and activities are hands-on and multidisciplinary, meet many common core objectives, and effectively bridge the gap between theory and the real world. In addition to being fun and engaging, students are rewarded with the real vegetables, flowers, mushrooms, and more that they learn to grow with their FarmBot.
 
-<iframe width="100%" height="425" src="https://www.youtube.com/embed/8PV0aR9Jl9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="8PV0aR9Jl9A" %}
 
 # Domains
 

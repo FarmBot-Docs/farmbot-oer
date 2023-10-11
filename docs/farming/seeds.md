@@ -4,7 +4,9 @@ slug: "seeds"
 description: "**Key Topics:** Seed Coat, Germination, Cotyledon, Endosperm, Roots, New Leaves, Photosynthesis, Embryo"
 ---
 
-In this lesson students will explore seeds and learn that each one contains all the information necessary to grow into healthy, thriving vegetables. Learning will happen through a skit that relates common items such as a coat, a snack, and a hat to the structure and function of different seed components. Students will then dissect a variety of soaked seeds to understand that all seeds have these parts and therefore all seeds have the possibility to become a plant.
+In this lesson students will explore **seeds** and learn that each one contains all the information necessary to grow into healthy, thriving vegetables.
+
+Learning will happen through a skit that relates common items such as a coat, a snack, and a hat to the structure and function of different seed components. Students will then dissect a variety of soaked seeds to understand that all seeds have these parts and therefore all seeds have the possibility to become a plant.
 
 # Syllabus
 
@@ -13,6 +15,10 @@ In this lesson students will explore seeds and learn that each one contains all 
 |[Seed Skit](seeds/seed-skit.md)|K-4|Riddle, Discussion, Activity|{% include standard.html org="NGSS" code="K-LS1-1" %}<br>{% include standard.html org="NGSS" code="2-PS1-1" %}<br>{% include standard.html org="NGSS" code="4-LS1-1" %}|
 |[Seed Dissection](seeds/seed-dissection.md)|K-4|Activity|{% include standard.html org="NGSS" code="K-LS1-1" %}<br>{% include standard.html org="NGSS" code="2-PS1-1" %}<br>{% include standard.html org="NGSS" code="4-LS1-1" %}
 |[Extension Activities](seeds/extension.md)||Links||
+
+# Video
+
+{% include youtube.html id="91lr5baiXuA" %}
 
 # Connecting CCCs and SEPs
 
@@ -29,3 +35,9 @@ In this lesson students will explore seeds and learn that each one contains all 
 - FoodCorps and LifeLab - Sprout Scouts: [Seed Soiree](https://drive.google.com/file/d/0B3I7UqacGp3uXzRHVnlIc1FZenM/view?usp=sharing)
 - Occidental Arts and Ecology - A Handful of Seeds: [A Seed is a Plant in a Box with its Lunch](https://drive.google.com/file/d/0B3I7UqacGp3uUkd5RUdxX1R6NWs/view?usp=sharing)
 - Ag in the Classroom - Oh Say Can You Seed: [Bean Dissection](https://drive.google.com/file/d/0B3I7UqacGp3uZjd5Slp0MEp0U0k/view?usp=sharing)
+
+# What's next?
+
+* [Seed Skit](seeds/seed-skit.md)
+* [Seed Dissection](seeds/seed-dissection.md)
+* [Extension Activities](seeds/extension.md)

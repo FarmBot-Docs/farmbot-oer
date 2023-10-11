@@ -8,10 +8,10 @@ description: "Analyzing the energy required to use a FarmBot and the associated 
 
 Every electrical component in FarmBot uses electricity to function: the motors, the solenoid valve, the Raspberry Pi computer, etc. In this lesson students will learn about the various electrical components in FarmBot and experimentally determine how much power each component uses. They will then calculate the energy, monetary, and CO2 footprint costs of operating FarmBot for a year.
 
-|**Grades**   |6-10
+|**Grades**   |4-10
 |**Time**     |1.5 hours
 |**Resources**|[Experiment](#experiment)
-|**Standards**|{% include standard.html org="NGSS" code="3-5-ETS1-1" %}
+|**Standards**|{% include standard.html org="NGSS" code="3-5-ETS1-1" %}<br>{% include standard.html org="NGSS" code="5-ESS3-1" %}<br>{% include standard.html org="NGSS" code="4-ESS3-1" %}<br>{% include standard.html org="NGSS" code="MS-ESS3-5" %}<br>{% include standard.html org="NGSS" code="MS-PS1-3" %}
 
 # Experiment
 

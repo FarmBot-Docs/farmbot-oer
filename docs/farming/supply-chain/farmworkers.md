@@ -101,7 +101,7 @@ Show the slides of farmworkers around the world. Ask the class if any of their f
 
 Note that the work is difficult, low to ground, repetitive, moving heavy equipment and product, exposed to extreme weather (cold and hot, wind), exposed to chemical inputs, early mornings (4am), long days, low pay. Play this 10 minute video on harvesting tomatoes in Florida to build a greater understanding of the work:
 
-<iframe width="815" height="460" src="https://www.youtube.com/embed/LWCMql9gjgw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="LWCMql9gjgw" %}
 
 ## People and robots
 

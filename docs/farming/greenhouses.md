@@ -9,7 +9,11 @@ In this lesson students will use thermometers to measure soil temperature and us
 
 Students will then learn about one structure humans developed to change their local environmental conditions to grow plants in the winter time, the **greenhouse**! Students will engineer their own prototypes of a greenhouse to modify soil temperature and growing conditions, monitoring their greenhouse over time.
 
-_Why would farmers want to create a blanket for their crops? What are the benefits? How does it work?_ Let’s try it!
+{%
+include callout.html
+type="question-circle"
+content="_Why would farmers want to create a blanket for their crops? What are the benefits? How does it work?_ Let’s try it!"
+%}
 
 # Syllabus
 
@@ -17,6 +21,10 @@ _Why would farmers want to create a blanket for their crops? What are the benefi
 |-----------------------------------------|------|---------|---------|
 |[Measuring Soil Temperature](greenhouses/measuring-soil-temperature.md)|2-8|Discussion, Activity|{% include standard.html org="NGSS" code="K-LS1-1" %}<br>{% include standard.html org="NGSS" code="K-ESS2-2" %}<br>{% include standard.html org="NGSS" code="K-PS3-1" %}<br>{% include standard.html org="NGSS" code="K-ESS2-3" %}|
 |[Engineering Mini Greenhouses](greenhouses/engineering-mini-greenhouses.md)|K-8|Activity|{% include standard.html org="NGSS" code="2-LS4-1" %}<br>{% include standard.html org="NGSS" code="3-LS4-3" %}<br>{% include standard.html org="NGSS" code="3-ESS2-1" %}<br>{% include standard.html org="NGSS" code="3-ESS3-1" %}<br>{% include standard.html org="NGSS" code="4-ESS3-2" %}<br>{% include standard.html org="NGSS" code="5-ESS2-1" %}<br>{% include standard.html org="NGSS" code="5-ESS3-1" %}<br>{% include standard.html org="NGSS" code="MS-ESS2-4" %}|
+
+# Video
+
+{% include youtube.html id="CEU0OjBjG7A" %}
 
 # Connecting CCCs and SEPs
 

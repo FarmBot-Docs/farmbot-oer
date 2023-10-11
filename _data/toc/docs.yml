@@ -14,18 +14,70 @@ contents:
     url: hardware
     top: true
     pages:
+      - title: Materials
+        url: materials
+        pages:
+          - title: Materials in FarmBot
+            url: materials-in-farmbot
+          - title: Determining Density
+            url: determining-density
+          - title: What is an SDS?
+            url: what-is-an-sds
+      - title: Mods and Add-Ons
+        url: mods
+        tags:
+          - New
+        pages:
+          - title: Maximizing Output
+            url: https://genesis.farm.bot/docs/maximizing-output
+            external: true
+          - title: Capture and Use Rainwater
+            url: https://genesis.farm.bot/docs/capture-and-use-rainwater
+            external: true
+          - title: Turn FarmBot into a Weather Station
+            url: https://genesis.farm.bot/docs/turn-farmbot-into-a-weather-station
+            external: true
+          - title: Monitor Resource Usage
+            url: https://genesis.farm.bot/docs/monitor-resource-usage
+            external: true
+          - title: Power FarmBot with Solar
+            url: https://genesis.farm.bot/docs/power-farmbot-with-solar
+            external: true
+          - title: Use FarmBot as a 3D CNC Camera Rig
+            url: https://genesis.farm.bot/docs/use-farmbot-as-a-3d-cnc-camera-rig
+            external: true
+          - title: Complete the Cycle with Compost
+            url: https://genesis.farm.bot/docs/complete-the-cycle-with-compost
+            external: true
+          - title: Monitor FarmBot with a Webcam
+            url: https://genesis.farm.bot/docs/monitor-farmbot-with-a-webcam
+            external: true
+          - title: Bees, Worms, Chickens, and More!
+            url: https://genesis.farm.bot/docs/bees-worms-chickens-and-more
+            external: true
+          - title: 3D Imaging with an OAK Camera
+            url: https://genesis.farm.bot/docs/3d-imaging-with-an-oak-camera
+            external: true
+          - title: Take Time Lapse Plant Photography
+            url: https://genesis.farm.bot/docs/take-time-lapse-plant-photography
+            external: true
+          - title: Put FarmBot in a Greenhouse
+            url: https://genesis.farm.bot/docs/put-farmbot-in-a-greenhouse
+            external: true
+          - title: Control Servos
+            url: https://genesis.farm.bot/docs/control-servos
+            external: true
+          - title: Control Relays
+            url: https://genesis.farm.bot/docs/control-relays
+            external: true
+          - title: Tool Spec
+            url: https://genesis.farm.bot/docs/tool-spec
+            external: true
       - title: Mechanical
         url: mechanical
+        tags:
+          - Coming soon
         pages:
-          - title: Materials
-            url: materials
-            pages:
-              - title: Materials in FarmBot
-                url: materials-in-farmbot
-              - title: Determining Density
-                url: determining-density
-              - title: What is an SDS?
-                url: what-is-an-sds
           - title: Structure
             url: structure
             tags:
@@ -40,6 +92,8 @@ contents:
               - Coming soon
       - title: Electrical
         url: electrical
+        tags:
+          - Coming soon
         pages:
           - title: Raspberry Pi
             url: raspberry-pi
@@ -84,6 +138,9 @@ contents:
       - title: Sequences
         url: sequences
         pages:
+          - title: Sequences
+            url: https://software.farm.bot/docs/sequences
+            external: true
           - title: Sequence Commands
             url: https://software.farm.bot/docs/sequence-commands
             external: true
@@ -99,6 +156,18 @@ contents:
           - title: Externally Defined Variables
             url: https://software.farm.bot/docs/externally-defined-variables
             external: true
+          - title: Multiple Variables
+            url: https://software.farm.bot/docs/multiple-variables
+            external: true
+          - title: Variable Types
+            url: https://software.farm.bot/docs/variable-types
+            external: true
+          - title: Shared Sequences
+            url: https://software.farm.bot/docs/shared-sequences
+            external: true
+          - title: Featured Sequences
+            url: https://software.farm.bot/docs/featured-sequences
+            external: true
       - title: Scheduling
         url: scheduling
         pages:
@@ -111,18 +180,17 @@ contents:
       - title: Coding
         url: coding
         pages:
-          - title: CeleryScript
-            url: https://developer.farm.bot/docs/celery-script
+          - title: Lua
+            url: https://lua.farm.bot
+            external: true
+          - title: FarmBot Py
+            url: https://developer.farm.bot/docs/python-library
             external: true
           - title: FarmBot JS
             url: https://developer.farm.bot/docs/farmbot-js
             external: true
-          - title: FarmBot Py
-            url: farmbot-py
-            tags:
-              - Coming soon
-          - title: Lua
-            url: https://developer.farm.bot/docs/assertions
+          - title: CeleryScript
+            url: https://developer.farm.bot/docs/celery-script
             external: true
   - title: Farming
     url: farming
@@ -130,89 +198,75 @@ contents:
     pages:
       - title: Farming Techniques
         url: farming-techniques
+        tags:
+          - New
         pages:
-          - title: Greenhouses
-            url: greenhouses
-            pages:
-              - title: Measuring Soil Temperature
-                url: measuring-soil-temperature
-              - title: Engineering Mini Greenhouses
-                url: engineering-mini-greenhouses
-              - title: Extension
-                url: extension
-          - title: Permaculture
-            url: permaculture
+          - title: Soil-Based Growing
+            url: soil-based-growing
             tags:
-              - Coming soon
+              - New
           - title: Hydroponics
             url: hydroponics
             tags:
-              - Coming soon
+              - New
           - title: Aeroponics
             url: aeroponics
             tags:
-              - Coming soon
-      - title: Plant Biology
-        url: plant-biology
+              - New
+      - title: Seeds
+        url: seeds
         pages:
-          - title: Seeds
-            url: seeds
-            pages:
-              - title: Seed Skit
-                url: seed-skit
-              - title: Seed Dissection
-                url: seed-dissection
-              - title: Extension Activities
-                url: extension
-          - title: Plant Anatomy
-            url: plant-anatomy
-            tags:
-              - Coming soon
-          - title: Life Stages
-            url: life-stages
-            tags:
-              - Coming soon
-      - title: Soil Science
-        url: soil-science
+          - title: Seed Skit
+            url: seed-skit
+          - title: Seed Dissection
+            url: seed-dissection
+          - title: Extension Activities
+            url: extension
+      - title: Is Soil Alive?
+        url: is-soil-alive
         pages:
-          - title: Is Soil Alive?
-            url: is-soil-alive
-            pages:
-              - title: Soil Life
-                url: soil-life
-              - title: Soil and Water
-                url: soil-and-water
-              - title: Soil Mixture Experiment
-                url: soil-mixture-experiment
-              - title: Extension Activities
-                url: extension
-          - title: Soil Types
-            url: soil-types
-            tags:
-              - Coming soon
-          - title: NPK
-            url: npk
-            tags:
-              - Coming soon
-          - title: Micronutrients
-            url: micronutrients
-            tags:
-              - Coming soon
+          - title: Soil Life
+            url: soil-life
+          - title: Soil and Water
+            url: soil-and-water
+          - title: Soil Mixture Experiment
+            url: soil-mixture-experiment
+          - title: Extension Activities
+            url: extension
+      - title: Greenhouses
+        url: greenhouses
+        pages:
+          - title: Measuring Soil Temperature
+            url: measuring-soil-temperature
+          - title: Engineering Mini Greenhouses
+            url: engineering-mini-greenhouses
+          - title: Extension
+            url: extension
       - title: Supply Chain
         url: supply-chain
         pages:
+          - title: Farmworkers
+            url: farmworkers
           - title: Farms
             url: farms
             tags:
               - Coming soon
-          - title: Farmworkers
-            url: farmworkers
+      - title: Plant Anatomy
+        url: plant-anatomy
+        tags:
+          - New
+      - title: Food Processing
+        url: food-processing
+        tags:
+          - New
   - title: Sustainability
     url: sustainability
     top: true
     pages:
       - title: Climate Change
         url: climate-change
+        tags:
+          - Coming soon
         pages:
           - title: Carbon Cycle
             url: carbon-cycle
@@ -224,22 +278,28 @@ contents:
               - Coming soon
       - title: Lifecycle Analysis
         url: lifecycle-analysis
+        tags:
+          - New
         pages:
           - title: Types of Emissions
             url: types-of-emissions
             tags:
-              - Coming soon
+              - New
           - title: Embodied Energy
             url: embodied-energy
             tags:
-              - Coming soon
+              - New
           - title: Emissions from Use
             url: emissions-from-use
-          - title: Cradle to Cradle
-            url: cradle-to-cradle
-            tags:
-              - Coming soon
           - title: Comparison with the Grocery
             url: comparison-with-the-grocery
             tags:
-              - Coming soon
+              - New
+      - title: Carbon Sinks
+        url: carbon-sinks
+        tags:
+          - New
+      - title: Water Audit
+        url: water-audit
+        tags:
+          - New

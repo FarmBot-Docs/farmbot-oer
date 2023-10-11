@@ -6,7 +6,7 @@ description: "Overview of lifecycle analysis subjects"
 
 In these lessons, students will learn about the entire **product lifecycle** of FarmBot. They will learn about the different types of emissions that are produced at each stage of the cycle, and how to calculate the total carbon footprint of a product.
 
-![Product Life Cycle](_images/product_life_cycle.png)
+![Product Life Cycle](lifecycle-analysis/_images/product_life_cycle.png)
 
 # Objectives
 

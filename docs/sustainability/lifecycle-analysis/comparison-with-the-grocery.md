@@ -18,8 +18,7 @@ Have students use published data to determine the carbon intensity of average ve
 
 **Recommended resources:**
 
-- [Our World In Data - Environmental Impacts of Food Production
-](https://ourworldindata.org/environmental-impacts-of-food)
+- [Our World In Data - Environmental Impacts of Food Production](https://ourworldindata.org/environmental-impacts-of-food)
 - [shrinkthatfootprint.com - The Carbon Foodprint of 5 Diets Compared](https://shrinkthatfootprint.com/food-carbon-footprint-diet)
 
 # FarmBot-grown vegetables

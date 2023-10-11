@@ -259,10 +259,6 @@ contents:
         url: food-processing
         tags:
           - New
-      - title: Water Audit
-        url: water-audit
-        tags:
-          - New
   - title: Sustainability
     url: sustainability
     top: true
@@ -301,5 +297,9 @@ contents:
               - New
       - title: Carbon Sinks
         url: carbon-sinks
+        tags:
+          - New
+      - title: Water Audit
+        url: water-audit
         tags:
           - New

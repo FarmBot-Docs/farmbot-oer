@@ -12,7 +12,7 @@ data:
   - code: K-PS3-1
     title: "Energy"
     slug: energy
-    description: Make observations to determine the effect of sunlight on Earth’s surface.
+    description: Make observations to determine the effect of sunlight on Earth's surface.
   - code: K-ESS3-3
     title: "Earth and Human Activity"
     slug: earth-and-human-activity
@@ -23,6 +23,9 @@ data:
   - code: 2-PS1-1
     title: Matter and Its Interactions
     description: Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.
+  - code: 3-LS3-2
+    title: "Heredity: Inheritance and Variation of Traits"
+    description: Use evidence to support the explanation that traits can be influenced by the environment.
   - code: 3-LS4-3
     title: "Biological Evolution: Unity and Diversity"
     description: Construct an argument with evidence that in a particular habitat some organisms can survive well, some survive less well, and some cannot survive at all.
@@ -41,20 +44,23 @@ data:
     title: "Earth and Human Activity"
     slug: earth-and-human-activity
     description: Make a claim about the merit of a design solution that reduces the impacts of a weather-related hazard.
-  - code: 4-LS1-1
-    title: "From Molecules to Organisms: Structures and Processes"
-    slug: molecules-organisms-structures-and-processes
-    description: Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction.
-  - code: 4-ESS3-2
-    title: "Earth and Human Activity"
-    slug: earth-and-human-activity
-    description: Generate and compare multiple solutions to reduce the impacts of natural Earth processes on humans.
   - code: 3-5-ETS1-1
     title: Engineering Design
     description: Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.
   - code: 3-5-ETS1-2
     title: Engineering Design
     description: Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.
+  - code: 4-LS1-1
+    title: "From Molecules to Organisms: Structures and Processes"
+    slug: molecules-organisms-structures-and-processes
+    description: Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction.
+  - code: 4-ESS3-1
+    title: Earth and Human Activity
+    description: Obtain and combine information to describe that energy and fuels are derived from natural resources and their uses affect the environment.
+  - code: 4-ESS3-2
+    title: "Earth and Human Activity"
+    slug: earth-and-human-activity
+    description: Generate and compare multiple solutions to reduce the impacts of natural Earth processes on humans.
   - code: 5-PS1-3
     title: Matter and Its Interactions
     description: Make observations and measurements to identify materials based on their properties.
@@ -67,7 +73,7 @@ data:
     description: Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere, and/or atmosphere interact.
   - code: 5-ESS3-1
     title: Earth and Human Activity
-    description: Obtain and combine information about ways individual communities use science ideas to protect the Earth’s resources and environment.
+    description: Obtain and combine information about ways individual communities use science ideas to protect the Earth's resources and environment.
   - code: MS-PS1-3
     title: Matter and its Interactions
     description: Gather and make sense of information to describe that synthetic materials come from natural resources and impact society.
@@ -75,3 +81,18 @@ data:
     title: Earth's Systems
     slug: earths-systems
     description: Develop a model to describe the cycling of water through Earth's systems driven by energy from the sun and the force of gravity.
+  - code: MS-ESS3-3
+    title: Earth and Human Activity
+    description: Apply scientific principles to design a method for monitoring and minimizing a human impact on the environment.
+  - code: MS-ESS3-4
+    title: Earth and Human Activity
+    description: Construct an argument supported by evidence for how increases in human population and per-capita consumption of natural resources impact Earth's systems.
+  - code: MS-ESS3-5
+    title: Earth and Human Activity
+    description: Ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past century.
+  - code: MS-LS1-6
+    title: "From Molecule to Organisms: Structures and Processes"
+    description: Construct a scientific explanation based on evidence for the role of photosynthesis in the cycling of matter and flow of energy into and out of organisms.
+  - code: MS-LS1-7
+    title: "From Molecule to Organisms: Structures and Processes"
+    description: Develop a model to describe how food is rearranged through chemical reactions forming new molecules that support growth and/or release energy as this matter moves through an organism.

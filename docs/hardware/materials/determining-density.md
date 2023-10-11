@@ -35,7 +35,7 @@ If the mass is acceptable, then we can go ahead building a prototype, but if its
 
 # Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O3biNFmB66E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="O3biNFmB66E" %}
 
 # Experiment
 

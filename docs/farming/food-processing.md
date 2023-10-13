@@ -77,7 +77,11 @@ The activity in this lesson will promote a natural curiosity about how food affe
 
 **Reflect:** What did you learn about making orange juice? Is it processed food? What are some advantages of making orange juice at home? What are some disadvantages?
 
-# Extension cctivities
+# Extension activities
 
 - Have students research food preparation in other cultures such as that of Native Americans in precolonial times.  Compare it with food preparation today.
 - Have students investigate prices of foods in their original form and the same products in processed forms.  How many processed products can they find for one original food?
+
+# Citations
+
+{% include one-cool-earth-attribution.html %}

@@ -104,3 +104,7 @@ content="You can either divide and conquer or lead the cooking demonstration and
 - [Create-a-Plant](http://ilove2teach.blogspot.com/2011/10/create-animal-create-plant-freebie.html): students create a diorama with an illustration and story about a self-invented plant, it’s habitat, and adaptations.
 - Grow a plant in a root box to be able to observe the roots!
 - Put a celery in colored water and see how water moves through the stems of plants.
+
+# Citations
+
+{% include one-cool-earth-attribution.html %}

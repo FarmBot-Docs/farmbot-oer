@@ -1,6 +1,6 @@
 ---
-title: "Coding"
-slug: "coding"
+title: "Coding with FarmBot"
+slug: "coding-with-farmbot"
 description: "Programmatically controlling FarmBot with Lua, Python, JavaScript, or CeleryScript"
 ---
 

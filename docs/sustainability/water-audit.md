@@ -61,3 +61,7 @@ In some places people don’t have running water in their homes and they have to
 - [Personal Water Use Estimate](https://drive.google.com/file/d/0BwZU1NNjgHs3UUZTeG5TSkxNV2s/view?resourcekey=0-kO8xTI4xVQnKIaNI1gR8NQ) is a good take-home or extra math extension for students to be challenged with in class
 - [The Water Conservation Checklist](https://drive.google.com/file/d/0BwZU1NNjgHs3YzhKaXpJZkt2MUk/view?resourcekey=0-37lsFIWvlNfYwiG0riKgOQ) is a good take-home sheet too. It digs deeper into what families can do and how students can lead efforts in checking on operations at home that could save them resources!
 - [Water Audit Footprint Handout](https://docs.google.com/presentation/d/1t4MVZMmu0bNGsh0KWj76RsDHN0m0ahebrZQ3ywoeKC0/edit#slide=id.p) can be used to color in their totals now and/or what their goals are to reduce and by how much… This could be a window hanging in their classroom perhaps to share with passerbys being water conscious about personal consumption.
+
+# Citations
+
+{% include one-cool-earth-attribution.html %}

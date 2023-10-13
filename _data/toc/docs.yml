@@ -177,8 +177,8 @@ contents:
           - title: Regimens
             url: https://software.farm.bot/docs/regimens
             external: true
-      - title: Coding
-        url: coding
+      - title: Coding with FarmBot
+        url: coding-with-farmbot
         pages:
           - title: Lua
             url: https://lua.farm.bot
@@ -192,6 +192,14 @@ contents:
           - title: CeleryScript
             url: https://developer.farm.bot/docs/celery-script
             external: true
+      - title: Coding with Raspberry Pi
+        url: coding-with-raspberry-pi
+        tags:
+          - New
+      - title: Coding with Arduino
+        url: coding-with-arduino
+        tags:
+          - New
   - title: Farming
     url: farming
     top: true
@@ -263,19 +271,6 @@ contents:
     url: sustainability
     top: true
     pages:
-      - title: Climate Change
-        url: climate-change
-        tags:
-          - Coming soon
-        pages:
-          - title: Carbon Cycle
-            url: carbon-cycle
-            tags:
-              - Coming soon
-          - title: Water Cycle
-            url: water-cycle
-            tags:
-              - Coming soon
       - title: Lifecycle Analysis
         url: lifecycle-analysis
         tags:

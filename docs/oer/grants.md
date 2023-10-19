@@ -25,6 +25,12 @@ Many of our educational customers secure grant funding from other sources to hel
 
 - [Sustainable Agriculture Research and Education (SARE)](https://www.sare.org/) is a decentralized competitive grants and education program.
 
-- The [Carl D. Perkins grant](http://www.doe.mass.edu/federalgrants/perkins/) assists school districts and public two-year colleges in improving secondary and postsecondary-level career and technical education programs.
+- [Carl D. Perkins grant](http://www.doe.mass.edu/federalgrants/perkins/) assists school districts and public two-year colleges in improving secondary and postsecondary-level career and technical education programs.
 
-- The [National Young Farmers Coalition](https://www.youngfarmers.org/) is a national advocacy network of young farmers fighting for the future of agriculture.
+- [National Young Farmers Coalition](https://www.youngfarmers.org/) is a national advocacy network of young farmers fighting for the future of agriculture.
+
+- [Ag Foundation White-Reinhardt Grant Program](https://www.agfoundation.org/projects/wr-grants-home) funds projects that will increase agricultural literacy. County and state Farm Bureaus may apply for $1,000 grants for education programs for grades K-12 in order to initiate new ag literacy programs or expand existing programs.
+
+- [Bayer Agriculture Fund](https://www.fund.bayer.us/grant-programs#grant-programs-1) grants for these specific towns: St. Louis, MO; Northern NJ; Pittsburgh, PA; Berkeley, CA.
+
+- [Grants.gov](https://www.grants.gov/web/grants/search-grants.html) is a centralized web portal and platform in the United States that serves as a comprehensive source for finding and applying for federal government grants. There are many opportunities for STEM learning funding.

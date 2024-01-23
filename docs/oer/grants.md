@@ -12,7 +12,7 @@ Unfortunately we do not have the resources available to make large donations at 
 include callout.html
 type="send"
 title="Get in touch"
-content="Email our sales team at [sales@farm.bot](mailto:sales@farm.bot) to request a quote."
+content="Email our sales team at [contact@farm.bot](mailto:contact@farm.bot) to request a quote."
 %}
 
 # Agriculture clubs

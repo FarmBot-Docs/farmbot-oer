@@ -48,7 +48,7 @@ The resources you'll find on this site are appropriate for a variety of grade le
 include callout.html
 type="success"
 title="Help us help you"
-content="We're committed to continually improving the FarmBot Open Educational Resources. If you have ideas for how we can improve, or would like to contribute lesson plans, worksheets, slides, or any other resource, please get in touch at [oer@farm.bot](mailto:oer@farm.bot)."
+content="We're committed to continually improving the FarmBot Open Educational Resources. If you have ideas for how we can improve, or would like to contribute lesson plans, worksheets, slides, or any other resource, please get in touch at [contact@farm.bot](mailto:contact@farm.bot)."
 %}
 
 # License
